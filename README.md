@@ -21,7 +21,7 @@ Software Requirements and Availability:
 
 The toolbox is intended to work within ArcGIS 10.1 [ArcMap; ESRI, 2018] and subsequent versions (including ArcGIS Pro [ESRI, 2020]). A ‘3D Analyst’ and ‘Spatial Analyst’ license is required. 
 
-To use the tools, download and save the toolbox (.tbx file), open ArcGIS, import the toolbox into the general ArcGIS ArcToolbox and select the tool. Refer to the instruction guide for more detailed guidance if required.
+To use the toolbox, download and save the 3D Morphometry Toolbox zip file, open ArcGIS, import the toolbox into the general ArcGIS ArcToolbox and select the tool. Refer to the instruction guide for more detailed guidance if required.
 
 
 Embedded Codes: 
