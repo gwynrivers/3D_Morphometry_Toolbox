@@ -1,6 +1,6 @@
 # 3D Morphometry Toolbox
 
-A Python-based ArcGIS toolbox to generate 3D morphometric data of elongated landscape features at user-defined transect-segmented intervals
+A Python-based ArcGIS toolbox to generate 3D morphometric data of elongated landscape features at user-defined transect-segmented intervals.
 
 Journal: Computers and Geosciences
 
