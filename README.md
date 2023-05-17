@@ -4,7 +4,7 @@ A Python-based ArcGIS toolbox to generate 3D morphometric data of elongated land
 
 Journal: Computers and Geosciences
 
-Author Details: Gwyneth E. Rivers*, Robert D. Storrar, Andrew H. Jones
+Author Details: Gwyneth E. Rivers*, Robert D. Storrar, Andrew H. Jones, Antti Ojala
 * G.Rivers@shu.ac.uk; Sheffield Hallam University, Howard Street, Sheffield, S1 1WB
 
 
