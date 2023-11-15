@@ -2,7 +2,7 @@
 
 A Python-based ArcGIS toolbox to generate 3D morphometric data of elongated landscape features at user-defined transect-segmented intervals.
 
-Journal: Computers and Geosciences
+Journal: Quaternary Science Reviews
 
 Author Details: Gwyneth E. Rivers*, Robert D. Storrar, Andrew H. Jones, Antti E.K. Ojala
 * G.Rivers@shu.ac.uk; Sheffield Hallam University, Howard Street, Sheffield, S1 1WB
