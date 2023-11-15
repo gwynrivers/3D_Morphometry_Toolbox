@@ -7,6 +7,8 @@ Journal: Computers and Geosciences
 Author Details: Gwyneth E. Rivers*, Robert D. Storrar, Andrew H. Jones, Antti E.K. Ojala
 * G.Rivers@shu.ac.uk; Sheffield Hallam University, Howard Street, Sheffield, S1 1WB
 
+Please cite: Rivers, G.E., Storrar, R.D., Jones, A.H., Ojala, A.E.K. (2023). 3D morphometry of De Geer Moraines and Crevasse-Squeeze Ridges: Differentiating between pushing and squeezing mechanisms from remotely sensed data. Quaternary Science Reviews, 321C. DOI: 10.1016/j.quascirev.2023.108383
+
 
 Programme Description:
 
